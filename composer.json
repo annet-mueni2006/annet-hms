@@ -1,0 +1,8 @@
+{
+    "name": "annet/hms",
+    "description": "Annet Healthcare Management System",
+    "require": {
+        "php": ">=8.1",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
